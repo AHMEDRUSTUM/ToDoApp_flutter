@@ -2,9 +2,12 @@
 
 Bu uygulama, günlük görevlerinizi kolayca yönetmenizi sağlar. Flutter ile geliştirilmiştir.
 
-# # Özellikler
+# Özellikler
 
 Yeni görev ekleyebilirsiniz.
 Görevleri tamamladığınızda işaretleyebilirsiniz.
 Görevleri silebilirsiniz.
 Görevleri düzenleyebilirsiniz.
+
+# Ekran Görüntüleri
+
