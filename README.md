@@ -14,6 +14,7 @@ Görevleri düzenleyebilirsiniz.
 ![tum islendi](https://github.com/AHMEDRUSTUM/ToDoApp_flutter/assets/164236168/373d7247-6990-4d20-8135-16fdbb3a9bf2)
 ![bagzi islendi](https://github.com/AHMEDRUSTUM/ToDoApp_flutter/assets/164236168/18a90780-d31f-463d-a55c-f1f446844c8b)
 ![eklemek](https://github.com/AHMEDRUSTUM/ToDoApp_flutter/assets/164236168/bf9a15dc-8003-416b-9ad5-8df4fb885d77)
+![bagzi silme](https://github.com/AHMEDRUSTUM/ToDoApp_flutter/assets/164236168/2549fa07-2f19-41ba-b883-ed303ca13008)
 ![tum silme](https://github.com/AHMEDRUSTUM/ToDoApp_flutter/assets/164236168/0f311fbf-7478-46f3-8772-451b9209193d)
 
 
